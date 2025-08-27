@@ -1,13 +1,13 @@
 // Configura tu Firebase aquí (debes crear un proyecto en https://console.firebase.google.com/)
 const firebaseConfig = {
-  apiKey: "AIzaSyDb4s_h95yOdIoPAoT53W6gFP4iBCC3q9Y",
-  authDomain: "dunkindecor.firebaseapp.com",
-  databaseURL: "https://dunkindecor-default-rtdb.firebaseio.com/",
-  projectId: "dunkindecor",
-  storageBucket: "dunkindecor.firebasestorage.app",
-  messagingSenderId: "204804849164",
-  appId: "1:204804849164:web:e3083e771d84662752f829",
-  measurementId: "G-50DQMHRGH4"
+  apiKey: "AIzaSyDSHhFKjv0AwPvGiexABmXInYhy83GWfyE",
+  authDomain: "decormalldelsol.firebaseapp.com",
+  databaseURL: "https://decormalldelsol-default-rtdb.firebaseio.com",
+  projectId: "decormalldelsol",
+  storageBucket: "decormalldelsol.firebasestorage.app",
+  messagingSenderId: "602195734856",
+  appId: "1:602195734856:web:5c05f81815b7d5c08f037d",
+  measurementId: "G-502739053"
 };
 firebase.initializeApp(firebaseConfig);
 const db = firebase.database();
